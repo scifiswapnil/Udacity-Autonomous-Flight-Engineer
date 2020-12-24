@@ -5,3 +5,4 @@ This is the submissions repository for the Autonomous Flight Engineer Nanodegree
 
 ### Folders
 * [Backyar-Flyer-Project](https://github.com/scifiswapnil/Udacity-Autonomous-Flight-Engineer/tree/main/Backyard-Flyer-Project)
+* [Motion Planning Project](https://github.com/scifiswapnil/Udacity-Autonomous-Flight-Engineer/tree/main/Motion-Planning-Project)
