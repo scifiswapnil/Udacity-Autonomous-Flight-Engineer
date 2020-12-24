@@ -2,7 +2,7 @@
 
 # [Controls Project](https://github.com/scifiswapnil/Udacity-Autonomous-Flight-Engineer/tree/main/Control-Project)
 
-This is the Motion Planning submission is a continuation of the Backyard Flyer project where you executed a simple square shaped flight path.
+This is the Controls project submission is a continuation of the Backyard Flyer project where you executed a simple square shaped flight path.
 --- 
 ### Introduction
 ![](https://github.com/scifiswapnil/Udacity-Autonomous-Flight-Engineer/blob/main/Control-Project/gifs/output1.gif) 
