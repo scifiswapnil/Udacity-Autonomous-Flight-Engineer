@@ -168,4 +168,4 @@ It works!
 
 # Extra Challenges: Real World Planning
 
-I am plan to implement this section later the end of the course.
+I plan to implement this section later the end of the course.
